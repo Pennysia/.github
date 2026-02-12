@@ -1,13 +1,10 @@
 # Pennysia Protocol
 
-Pennysia is a low-risk, but high-reward AMM. If this sounds too marketing, it's a AMM + Prediction market + Aave. LP gets the same risk profile as in Uniswap V2, but much higher rewards.
+Pennysia is building the 1st low-risk, high-reward AMM for passive LP.
 
-- You're not too old to learn more [docs](https://docs.pennysia.com).
+- [Website](https://pennysia.com)
 
-- Check out the website [here](https://pennysia.com)
+- [Documentation](https://docs.pennysia.com).
 
-- If you want to catch up updates, best choice is on [X/Twitter](https://x.com/PennysiaLabs).
+- [X/Twitter](https://x.com/PennysiaLabs).
 
-
-
-LOVE YOU TOO :heart: .
