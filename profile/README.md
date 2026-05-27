@@ -9,6 +9,6 @@ Pennysia is building the 1st low-risk, high-reward AMM for passive LP.
 - [X/Twitter](https://x.com/PennysiaLabs).
   
 
-![socialCard](https://pennysia.com/socialCard.jpg)
+![socialCard](https://pennysia.com/SocialBanner2.jpg)
 
 
