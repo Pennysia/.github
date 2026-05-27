@@ -1,6 +1,6 @@
-# Pennysia Protocol
+# Pennysia 
 
-Pennysia is building the 1st low-risk, high-reward AMM for passive LP.
+We unify world's liquidity into one marketplace.
 
 - [Website](https://pennysia.com)
 
